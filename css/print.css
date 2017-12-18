@@ -57,7 +57,7 @@ h2, .ccli {
 }
 
 .words {
-  font-family: "Arial narrow";
+  font-family: "Arial"; /* was Arial narrow */
 }
 
 .subtitle {font-size:smaller;}
